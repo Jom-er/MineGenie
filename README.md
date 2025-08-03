@@ -1,2 +1,2 @@
 # MineGenie
-MineGenie is your personal AI-powered tool for generating custom Minecraft textures. Create stunning blocks, items, and mobs with just a few clicks — no art skills needed. Whether you're a builder, modder, or server owner, MineGenie brings your Minecraft vision to life with intelligent, high-quality textures.
+MineGenie is like having a seasoned Minecraft scripting expert by your side, providing guidance, support, and expertise every step of the way. With its advanced validation engine and code completion capabilities, (link unavailable) helps you build complex scripts with confidence, freeing you to focus on unleashing your creativity and bringing your Minecraft visions to life.
